@@ -14,22 +14,7 @@ We will run our experiment on the cs3 machine, as it has 48 CPUs.
 *The line that’s used for compiling htree.c into htree executable: gcc htree.c -o htree -Wall -Werror -phtread -std=gnu99
 **Line used for executing htree executable: ./htree [FILEPATH] [NUMBER OF THREADS], in which [FILEPATH] is the file path to the file for hashing and [NUMBER OF THREADS] being the number of threads to be used by htree.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="497" alt="image" src="https://github.com/asarisha/Multi-Threaded-Hash-Tree/assets/125152624/eb0e66cd-55af-4710-9784-859ca72ae18b">
 
 Results
 
